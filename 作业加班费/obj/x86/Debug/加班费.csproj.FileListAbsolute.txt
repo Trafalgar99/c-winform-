@@ -1,0 +1,7 @@
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\bin\Debug\1211.3.exe
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\bin\Debug\1211.3.pdb
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\obj\x86\Debug\_1211._3.Form1.resources
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\obj\x86\Debug\_1211._3.Properties.Resources.resources
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\obj\x86\Debug\加班费.csproj.GenerateResource.cache
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\obj\x86\Debug\1211.3.exe
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.3\obj\x86\Debug\1211.3.pdb

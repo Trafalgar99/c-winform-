@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\小练习\bin\Debug\小练习.exe.config
+C:\Users\86158\source\repos\小练习\bin\Debug\小练习.exe
+C:\Users\86158\source\repos\小练习\bin\Debug\小练习.pdb
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.Form1.resources
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.Properties.Resources.resources
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.exe
+C:\Users\86158\source\repos\小练习\obj\Debug\小练习.pdb

@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\TextBox控件\bin\Debug\TextBox控件.exe.config
+C:\Users\86158\source\repos\TextBox控件\bin\Debug\TextBox控件.exe
+C:\Users\86158\source\repos\TextBox控件\bin\Debug\TextBox控件.pdb
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.Form1.resources
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.Properties.Resources.resources
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.exe
+C:\Users\86158\source\repos\TextBox控件\obj\Debug\TextBox控件.pdb

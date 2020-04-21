@@ -1,0 +1,9 @@
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\bin\Debug\Timer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\bin\Debug\Timer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\Timer.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\Timer.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\Timer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\1216\Timer\obj\x86\Debug\Timer.pdb

@@ -1,0 +1,11 @@
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.exe
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.deps.json
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.runtimeconfig.json
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.runtimeconfig.dev.json
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.dll
+C:\Users\86158\source\repos\超市收银系统\bin\Debug\netcoreapp3.1\超市收银系统.pdb
+C:\Users\86158\source\repos\超市收银系统\obj\Debug\netcoreapp3.1\超市收银系统.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\超市收银系统\obj\Debug\netcoreapp3.1\超市收银系统.AssemblyInfoInputs.cache
+C:\Users\86158\source\repos\超市收银系统\obj\Debug\netcoreapp3.1\超市收银系统.AssemblyInfo.cs
+C:\Users\86158\source\repos\超市收银系统\obj\Debug\netcoreapp3.1\超市收银系统.dll
+C:\Users\86158\source\repos\超市收银系统\obj\Debug\netcoreapp3.1\超市收银系统.pdb

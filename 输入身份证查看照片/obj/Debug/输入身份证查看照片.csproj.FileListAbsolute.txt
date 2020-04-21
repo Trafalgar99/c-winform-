@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\输入身份证查看照片\bin\Debug\输入身份证查看照片.exe.config
+C:\Users\86158\source\repos\输入身份证查看照片\bin\Debug\输入身份证查看照片.exe
+C:\Users\86158\source\repos\输入身份证查看照片\bin\Debug\输入身份证查看照片.pdb
+C:\Users\86158\source\repos\输入身份证查看照片\obj\Debug\输入身份证查看照片.Form1.resources
+C:\Users\86158\source\repos\输入身份证查看照片\obj\Debug\输入身份证查看照片.Properties.Resources.resources
+C:\Users\86158\source\repos\输入身份证查看照片\obj\Debug\输入身份证查看照片.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\输入身份证查看照片\obj\Debug\输入身份证查看照片.exe
+C:\Users\86158\source\repos\输入身份证查看照片\obj\Debug\输入身份证查看照片.pdb

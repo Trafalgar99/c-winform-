@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\单选框\bin\Debug\单选框.exe.config
+C:\Users\86158\source\repos\单选框\bin\Debug\单选框.exe
+C:\Users\86158\source\repos\单选框\bin\Debug\单选框.pdb
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.Form1.resources
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.Properties.Resources.resources
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.exe
+C:\Users\86158\source\repos\单选框\obj\Debug\单选框.pdb

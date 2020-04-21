@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\保存对话框\bin\Debug\保存对话框.exe.config
+C:\Users\86158\source\repos\保存对话框\bin\Debug\保存对话框.exe
+C:\Users\86158\source\repos\保存对话框\bin\Debug\保存对话框.pdb
+C:\Users\86158\source\repos\保存对话框\obj\Debug\保存对话框.Form1.resources
+C:\Users\86158\source\repos\保存对话框\obj\Debug\保存对话框.Properties.Resources.resources
+C:\Users\86158\source\repos\保存对话框\obj\Debug\保存对话框.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\保存对话框\obj\Debug\保存对话框.exe
+C:\Users\86158\source\repos\保存对话框\obj\Debug\保存对话框.pdb

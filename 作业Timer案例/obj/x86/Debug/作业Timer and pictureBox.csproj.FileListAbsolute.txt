@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\作业Timer案例\bin\Debug\Timer.exe
+C:\Users\86158\source\repos\作业Timer案例\bin\Debug\Timer.pdb
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\作业Timer and pictureBox.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\Timer.Form1.resources
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\Timer.Properties.Resources.resources
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\作业Timer and pictureBox.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\Timer.exe
+C:\Users\86158\source\repos\作业Timer案例\obj\x86\Debug\Timer.pdb

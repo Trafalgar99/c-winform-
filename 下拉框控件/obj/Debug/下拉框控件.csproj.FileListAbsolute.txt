@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\下拉框控件\bin\Debug\下拉框控件.exe.config
+C:\Users\86158\source\repos\下拉框控件\bin\Debug\下拉框控件.exe
+C:\Users\86158\source\repos\下拉框控件\bin\Debug\下拉框控件.pdb
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.Form1.resources
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.Properties.Resources.resources
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.exe
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.pdb
+C:\Users\86158\source\repos\下拉框控件\obj\Debug\下拉框控件.csprojAssemblyReference.cache

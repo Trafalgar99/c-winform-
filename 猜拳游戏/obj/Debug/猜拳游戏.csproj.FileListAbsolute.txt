@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\猜拳游戏\bin\Debug\猜拳游戏.exe.config
+C:\Users\86158\source\repos\猜拳游戏\bin\Debug\猜拳游戏.exe
+C:\Users\86158\source\repos\猜拳游戏\bin\Debug\猜拳游戏.pdb
+C:\Users\86158\source\repos\猜拳游戏\obj\Debug\猜拳游戏.Form1.resources
+C:\Users\86158\source\repos\猜拳游戏\obj\Debug\猜拳游戏.Properties.Resources.resources
+C:\Users\86158\source\repos\猜拳游戏\obj\Debug\猜拳游戏.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\猜拳游戏\obj\Debug\猜拳游戏.exe
+C:\Users\86158\source\repos\猜拳游戏\obj\Debug\猜拳游戏.pdb

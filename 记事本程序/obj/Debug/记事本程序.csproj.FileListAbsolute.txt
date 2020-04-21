@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\记事本程序\bin\Debug\记事本程序.exe.config
+C:\Users\86158\source\repos\记事本程序\bin\Debug\记事本程序.exe
+C:\Users\86158\source\repos\记事本程序\bin\Debug\记事本程序.pdb
+C:\Users\86158\source\repos\记事本程序\obj\Debug\记事本程序.Form1.resources
+C:\Users\86158\source\repos\记事本程序\obj\Debug\记事本程序.Properties.Resources.resources
+C:\Users\86158\source\repos\记事本程序\obj\Debug\记事本程序.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\记事本程序\obj\Debug\记事本程序.exe
+C:\Users\86158\source\repos\记事本程序\obj\Debug\记事本程序.pdb

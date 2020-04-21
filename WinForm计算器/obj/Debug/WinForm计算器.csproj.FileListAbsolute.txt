@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\WinForm计算器\bin\Debug\WinForm计算器.exe.config
+C:\Users\86158\source\repos\WinForm计算器\bin\Debug\WinForm计算器.exe
+C:\Users\86158\source\repos\WinForm计算器\bin\Debug\WinForm计算器.pdb
+C:\Users\86158\source\repos\WinForm计算器\obj\Debug\WinForm计算器.Form1.resources
+C:\Users\86158\source\repos\WinForm计算器\obj\Debug\WinForm计算器.Properties.Resources.resources
+C:\Users\86158\source\repos\WinForm计算器\obj\Debug\WinForm计算器.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\WinForm计算器\obj\Debug\WinForm计算器.exe
+C:\Users\86158\source\repos\WinForm计算器\obj\Debug\WinForm计算器.pdb

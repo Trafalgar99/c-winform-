@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\窗体抖动\bin\Debug\窗体抖动.exe.config
+C:\Users\86158\source\repos\窗体抖动\bin\Debug\窗体抖动.exe
+C:\Users\86158\source\repos\窗体抖动\bin\Debug\窗体抖动.pdb
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.Form1.resources
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.Properties.Resources.resources
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.exe
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.pdb
+C:\Users\86158\source\repos\窗体抖动\obj\Debug\窗体抖动.csprojAssemblyReference.cache

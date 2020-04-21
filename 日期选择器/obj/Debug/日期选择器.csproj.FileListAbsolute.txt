@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\日期选择器\bin\Debug\日期选择器.exe.config
+C:\Users\86158\source\repos\日期选择器\bin\Debug\日期选择器.exe
+C:\Users\86158\source\repos\日期选择器\bin\Debug\日期选择器.pdb
+C:\Users\86158\source\repos\日期选择器\obj\Debug\日期选择器.Form1.resources
+C:\Users\86158\source\repos\日期选择器\obj\Debug\日期选择器.Properties.Resources.resources
+C:\Users\86158\source\repos\日期选择器\obj\Debug\日期选择器.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\日期选择器\obj\Debug\日期选择器.exe
+C:\Users\86158\source\repos\日期选择器\obj\Debug\日期选择器.pdb

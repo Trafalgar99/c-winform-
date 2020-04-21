@@ -1,0 +1,11 @@
+C:\Users\86158\source\repos\Mdi窗体设计\bin\Debug\Mdi窗体设计.exe.config
+C:\Users\86158\source\repos\Mdi窗体设计\bin\Debug\Mdi窗体设计.exe
+C:\Users\86158\source\repos\Mdi窗体设计\bin\Debug\Mdi窗体设计.pdb
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.Form1.resources
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.Form2.resources
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.Form4.resources
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.Properties.Resources.resources
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.exe
+C:\Users\86158\source\repos\Mdi窗体设计\obj\Debug\Mdi窗体设计.pdb

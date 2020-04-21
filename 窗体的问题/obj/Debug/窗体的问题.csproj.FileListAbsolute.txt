@@ -1,0 +1,10 @@
+C:\Users\86158\source\repos\窗体的问题\bin\Debug\窗体的问题.exe.config
+C:\Users\86158\source\repos\窗体的问题\bin\Debug\窗体的问题.exe
+C:\Users\86158\source\repos\窗体的问题\bin\Debug\窗体的问题.pdb
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.Form1.resources
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.Form2.resources
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.Properties.Resources.resources
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.exe
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.pdb
+C:\Users\86158\source\repos\窗体的问题\obj\Debug\窗体的问题.csprojAssemblyReference.cache

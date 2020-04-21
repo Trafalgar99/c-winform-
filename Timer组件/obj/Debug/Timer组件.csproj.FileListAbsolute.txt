@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\Timer组件\bin\Debug\Timer组件.exe.config
+C:\Users\86158\source\repos\Timer组件\bin\Debug\Timer组件.exe
+C:\Users\86158\source\repos\Timer组件\bin\Debug\Timer组件.pdb
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.Form1.resources
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.Properties.Resources.resources
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.exe
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.pdb
+C:\Users\86158\source\repos\Timer组件\obj\Debug\Timer组件.csprojAssemblyReference.cache

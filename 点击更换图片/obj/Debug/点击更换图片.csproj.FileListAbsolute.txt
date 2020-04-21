@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\点击更换图片\bin\Debug\点击更换图片.exe.config
+C:\Users\86158\source\repos\点击更换图片\bin\Debug\点击更换图片.exe
+C:\Users\86158\source\repos\点击更换图片\bin\Debug\点击更换图片.pdb
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.Form1.resources
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.Properties.Resources.resources
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.exe
+C:\Users\86158\source\repos\点击更换图片\obj\Debug\点击更换图片.pdb

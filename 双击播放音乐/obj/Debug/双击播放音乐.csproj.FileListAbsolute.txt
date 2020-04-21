@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\双击播放音乐\bin\Debug\双击播放音乐.exe.config
+C:\Users\86158\source\repos\双击播放音乐\bin\Debug\双击播放音乐.exe
+C:\Users\86158\source\repos\双击播放音乐\bin\Debug\双击播放音乐.pdb
+C:\Users\86158\source\repos\双击播放音乐\obj\Debug\双击播放音乐.Form1.resources
+C:\Users\86158\source\repos\双击播放音乐\obj\Debug\双击播放音乐.Properties.Resources.resources
+C:\Users\86158\source\repos\双击播放音乐\obj\Debug\双击播放音乐.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\双击播放音乐\obj\Debug\双击播放音乐.exe
+C:\Users\86158\source\repos\双击播放音乐\obj\Debug\双击播放音乐.pdb

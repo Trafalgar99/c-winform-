@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\Do You Love Me\bin\Debug\Do You Love Me.exe.config
+C:\Users\86158\source\repos\Do You Love Me\bin\Debug\Do You Love Me.exe
+C:\Users\86158\source\repos\Do You Love Me\bin\Debug\Do You Love Me.pdb
+C:\Users\86158\source\repos\Do You Love Me\obj\Debug\Do_You_Love_Me.Form1.resources
+C:\Users\86158\source\repos\Do You Love Me\obj\Debug\Do_You_Love_Me.Properties.Resources.resources
+C:\Users\86158\source\repos\Do You Love Me\obj\Debug\Do You Love Me.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\Do You Love Me\obj\Debug\Do You Love Me.exe
+C:\Users\86158\source\repos\Do You Love Me\obj\Debug\Do You Love Me.pdb

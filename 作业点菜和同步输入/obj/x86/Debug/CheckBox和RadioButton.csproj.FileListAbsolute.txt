@@ -1,0 +1,19 @@
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\administrator\documents\visual studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\20191209\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\CheckBox和RadioButton.csprojAssemblyReference.cache
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\CheckBox和RadioButton.csproj.GenerateResource.cache
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\86158\Desktop\视频\201804000327_5739\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb

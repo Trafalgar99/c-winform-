@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\c.net\bin\Debug\c.net.exe.config
+C:\Users\86158\source\repos\c.net\bin\Debug\c.net.exe
+C:\Users\86158\source\repos\c.net\bin\Debug\c.net.pdb
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.csprojAssemblyReference.cache
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.Properties.Resources.resources
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.exe
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.pdb
+C:\Users\86158\source\repos\c.net\obj\Debug\c.net.Form1.resources

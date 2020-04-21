@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\Label控件\bin\Debug\Label控件.exe.config
+C:\Users\86158\source\repos\Label控件\bin\Debug\Label控件.exe
+C:\Users\86158\source\repos\Label控件\bin\Debug\Label控件.pdb
+C:\Users\86158\source\repos\Label控件\obj\Debug\Label控件.Form1.resources
+C:\Users\86158\source\repos\Label控件\obj\Debug\Label控件.Properties.Resources.resources
+C:\Users\86158\source\repos\Label控件\obj\Debug\Label控件.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\Label控件\obj\Debug\Label控件.exe
+C:\Users\86158\source\repos\Label控件\obj\Debug\Label控件.pdb

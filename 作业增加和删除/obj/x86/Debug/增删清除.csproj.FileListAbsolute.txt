@@ -1,0 +1,14 @@
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\bin\Debug\1211.2.exe
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\bin\Debug\1211.2.pdb
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\obj\x86\Debug\_1211._2.Form1.resources
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\obj\x86\Debug\_1211._2.Properties.Resources.resources
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\obj\x86\Debug\增删清除.csproj.GenerateResource.cache
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\obj\x86\Debug\1211.2.exe
+C:\Users\86158\Desktop\视频\201804000327_5740\作业\1211.2\obj\x86\Debug\1211.2.pdb
+C:\Users\86158\source\repos\作业增加和删除\bin\Debug\1211.2.exe
+C:\Users\86158\source\repos\作业增加和删除\bin\Debug\1211.2.pdb
+C:\Users\86158\source\repos\作业增加和删除\obj\x86\Debug\_1211._2.Form1.resources
+C:\Users\86158\source\repos\作业增加和删除\obj\x86\Debug\_1211._2.Properties.Resources.resources
+C:\Users\86158\source\repos\作业增加和删除\obj\x86\Debug\增删清除.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\作业增加和删除\obj\x86\Debug\1211.2.exe
+C:\Users\86158\source\repos\作业增加和删除\obj\x86\Debug\1211.2.pdb

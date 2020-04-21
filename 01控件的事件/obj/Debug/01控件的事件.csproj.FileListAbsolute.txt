@@ -1,0 +1,8 @@
+C:\Users\86158\source\repos\01控件的事件\bin\Debug\01控件的事件.exe.config
+C:\Users\86158\source\repos\01控件的事件\bin\Debug\01控件的事件.exe
+C:\Users\86158\source\repos\01控件的事件\bin\Debug\01控件的事件.pdb
+C:\Users\86158\source\repos\01控件的事件\obj\Debug\_01控件的事件.Form1.resources
+C:\Users\86158\source\repos\01控件的事件\obj\Debug\_01控件的事件.Properties.Resources.resources
+C:\Users\86158\source\repos\01控件的事件\obj\Debug\01控件的事件.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\01控件的事件\obj\Debug\01控件的事件.exe
+C:\Users\86158\source\repos\01控件的事件\obj\Debug\01控件的事件.pdb

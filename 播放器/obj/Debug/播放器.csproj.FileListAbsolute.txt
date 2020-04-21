@@ -1,0 +1,13 @@
+C:\Users\86158\source\repos\播放器\bin\Debug\播放器.exe.config
+C:\Users\86158\source\repos\播放器\bin\Debug\播放器.exe
+C:\Users\86158\source\repos\播放器\bin\Debug\播放器.pdb
+C:\Users\86158\source\repos\播放器\bin\Debug\Interop.WMPLib.dll
+C:\Users\86158\source\repos\播放器\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\86158\source\repos\播放器\obj\Debug\Interop.WMPLib.dll
+C:\Users\86158\source\repos\播放器\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.csproj.ResolveComReference.cache
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.Properties.Resources.resources
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.exe
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.pdb
+C:\Users\86158\source\repos\播放器\obj\Debug\播放器.Form1.resources

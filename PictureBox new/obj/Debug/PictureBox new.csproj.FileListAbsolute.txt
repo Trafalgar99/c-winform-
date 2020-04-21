@@ -1,0 +1,9 @@
+C:\Users\86158\source\repos\PictureBox new\bin\Debug\PictureBox new.exe.config
+C:\Users\86158\source\repos\PictureBox new\bin\Debug\PictureBox new.exe
+C:\Users\86158\source\repos\PictureBox new\bin\Debug\PictureBox new.pdb
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox_new.Form1.resources
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox_new.Properties.Resources.resources
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox new.csproj.GenerateResource.cache
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox new.exe
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox new.pdb
+C:\Users\86158\source\repos\PictureBox new\obj\Debug\PictureBox new.csprojAssemblyReference.cache
